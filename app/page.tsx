@@ -17,9 +17,8 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-            lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enim ad
-            minim veniam
+            Building the future web. Merging human creativity with AI for
+            powerful experiences.
           </p>
 
           <div className="flex-col md:flex-row hidden md:flex gap-5">
