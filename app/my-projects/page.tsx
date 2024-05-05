@@ -25,6 +25,14 @@ const Page = () => {
           }
           image={"/HelpCoin.jpeg"}
         />
+
+        <ProjectCard
+          title={"Hire AI"}
+          text={
+            "Harnessing the power of AI to know you the potential of your resume in a paricular job."
+          }
+          image={"/reusume_short.png"}
+        />
       </div>
     </div>
   );
