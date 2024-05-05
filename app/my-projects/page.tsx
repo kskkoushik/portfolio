@@ -18,6 +18,13 @@ const Page = () => {
           }
           image={"/WebPortfolio.png"}
         />
+        <ProjectCard
+          title={"Help Coin"}
+          text={
+            "Integrating economy and humanity into a single webapp glorifying the vision of humanity"
+          }
+          image={"/HelpCoin.jpeg"}
+        />
       </div>
     </div>
   );
